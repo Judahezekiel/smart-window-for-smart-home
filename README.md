@@ -121,3 +121,5 @@ Integration with a Smart Home System (Alexa, Google Assistant)
 Remote Monitoring via IoT
 
 Solar Power Integration
+
+video link https://drive.google.com/file/d/1CnEbNAV0YJ7_VhwcbSZ7AHwRzRZWlk4t/view?usp=drivesdk
