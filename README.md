@@ -1,7 +1,7 @@
 Smart Window System – Dependency & Special Requirements Documentation
 
-Project by: Team Grampa
-Developer: S Judah
+Project by: Team Zudos
+Developer: S Judah 
 
 
 ---
